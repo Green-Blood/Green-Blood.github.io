@@ -1,0 +1,36 @@
+@font-face{
+	font-family: "Fuehrer";
+	src: url("fonts/fuehrer.ttf");
+}
+@font-face{
+	font-family: "Metal Macabre";
+	src: url("fonts/Metal Macabre.ttf");
+}
+@font-face{
+	font-family: "Polygon-Regular";
+	src: url("fonts/Polygon-Regular.otf");
+}
+h1
+{
+text-align: center;
+text-shadow: 3px 3px #000000;
+color:#800000;
+font-family: Fuehrer;
+font-style: italic;
+}
+p
+{
+	text-align: center;
+	color:#DCDCDC;
+	font-size: 19px;
+	font-family: Polygon-Regular;
+		
+}
+h5
+{
+text-align: center;
+color:#8B008B;
+font-size: 18px;
+font-family: Metal Macabre;
+		
+}
