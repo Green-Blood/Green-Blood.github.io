@@ -25,6 +25,7 @@ color:#800080;
 font-family: Metal Macabre;
 font-style: italic;
 font-size: 70px;
+transition: .7s;
 }
 p
 {
@@ -37,12 +38,14 @@ p
 }
 h5
 {
+
 text-align: center;
 color: #800000;
 font-size: 25px;
 font-family: Metal Macabre;
 text-shadow:tan 2px 2px 3px;
 border-radius:  20px 20px 20px 20px;
+transition: .7s;
 }
 h2
 {
