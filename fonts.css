@@ -17,6 +17,7 @@ text-shadow: 3px 3px #000000;
 color:#800000;
 font-family: Fuehrer;
 font-style: italic;
+transition: .7s;
 }
 p
 {
@@ -32,5 +33,5 @@ text-align: center;
 color:#8B008B;
 font-size: 18px;
 font-family: Metal Macabre;
-		
+transition: .7s;		
 }
