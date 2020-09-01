@@ -974,6 +974,7 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border-radius: 30px;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
